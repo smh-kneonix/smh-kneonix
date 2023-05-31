@@ -4,8 +4,12 @@
 <div style="width:95%" align="center">
 	<img style="width:45%; height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=smh-kneonix&show_icons=true&theme=radical" />
   	<img style="width:45%; height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=smh-kneonix&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+
+![Codewars](https://github.r2v.ch/codewars?user=smh-kneonix&stroke=blue)
 </div>
-  
+
+
+	
   ## about me
   <p>
     Junior back-end developer from Iran(Tehran)
