@@ -23,15 +23,10 @@
 
 ## 📈 stats
 
-<div align="center">
-  <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;align-items:flex-start;">
-    <div style="flex:1 1 280px;max-width:460px;min-width:200px;text-align:center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=smh-kneonix&theme=radical" alt="kneonix GitHub Streak" style="width:100%;height:auto;max-width:680px;" />
-    </div>
-    <div style="flex:1 1 280px;max-width:460px;min-width:220px;text-align:center;">
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/smh-kneonix?cardType=level&theme=radical&preferLogin=false" alt="kneonix Awesome Stats" style="width:100%;height:auto;max-width:680px;" />
-    </div>
-  </div>
+<div style="width:95%" align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=smh-kneonix&theme=radical" alt="kneonix GitHub Streak" style="" />
+	<img alt="Top Languages" src="https://github-readme-stats.lutfilahdzaky.vercel.app/api/top-langs/?username=smh-kneonix&layout=compact&theme=radical&hide_border=true" alt="kneonix Top Languages" style="" />
+	<img src="https://awesome-github-stats.azurewebsites.net/user-stats/smh-kneonix?cardType=level&theme=radical&preferLogin=false" alt="kneonix Awesome Stats" style="" />
 </div>
 
 ## 🔍 Where to find me
